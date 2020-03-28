@@ -6,6 +6,8 @@
 <h4 align="center">Bringing Anime Torrents to  <a href="https://www.stremio.com/" target="_blank">Stremio</a>
 </h4>
 
+** THIS REPOSITORY HAS BEEN MOVED TO [sleeyax/stremio-addons](https://git.io/JvQGc) **
+
 ## Features
 * New catalog sorted by letter, latest anime releases or season
 * Watch episodes in 360p, 480p, 720p or 1080p
